@@ -24,7 +24,7 @@ const Home = () => {
                     <Typography align = 'center' color = 'secondary' variant = 'h4' style = {{margin:'20px'}}>
                         This Website is Under Construction. So,
                     </Typography>
-                    <iframe src="https://giphy.com/embed/xT9KVmZwJl7fnigeAg" width="480" height="260" frameBorder="0"   class="giphy-embed" allowFullScreen></iframe>
+                    <iframe src="https://giphy.com/embed/xT9KVmZwJl7fnigeAg" title="hey" width="480" height="260" frameBorder="0"   class="giphy-embed" allowFullScreen></iframe>
                 </Paper>
             </Grid>
         </Grid>

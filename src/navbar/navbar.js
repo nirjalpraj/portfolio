@@ -25,7 +25,7 @@ const Navigation = () => {
       <Fab color="secondary" aria-label="failure"  variant="extended">
         Failures
       </Fab>
-      <Fab color="primary" variant="extended" aria-label = "projects" variant="extended">
+      <Fab color="primary" variant="extended" aria-label = "projects">
         Projects
       </Fab>
       <Fab color="secondary" aria-label="Contact" variant = "extended">
